@@ -1,14 +1,15 @@
 # large data files
-
-/src/00_data/^spx_d.csv
-/src/00_data/assets.h5
+/src/00_data/archive
 /src/00_data/assets_v1.h5
-/src/data/assets_v1.h5
-/src/01_models/data.h5
-/src/00_data/assets_01.h5
-/src/02_backtests/backtest.h5
-/src/02_backtests/backtrader.h5
-/src/01_models/lstm_data.h5
+/src/00_data/spx_d.csv
+/src/00_data/ticker_list
+/src/00_data/tickers
+
+/src/01_models/data
+
+/src/02_backtests/00_data/backtest.h5
+/src/02_backtests/backtrader_results.h5
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
