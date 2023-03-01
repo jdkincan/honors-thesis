@@ -5,6 +5,9 @@
 /src/00_data/assets_v1.h5
 /src/data/assets_v1.h5
 /src/01_models/data.h5
+/src/00_data/assets_01.h5
+/src/02_backtests/backtest.h5
+/src/02_backtests/backtrader.h5
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
