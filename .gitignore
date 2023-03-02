@@ -1,4 +1,8 @@
 # large data files
+/src/production/00_datasets/data_store.h5
+/src/production/00_datasets/spx_d.csv
+/src/production/01_models/linear_data.h5
+
 /src/00_data/archive
 /src/00_data/assets_v1.h5
 /src/00_data/spx_d.csv
